@@ -1,0 +1,8 @@
+#python3 main.py --is_training False --is_save False --unet_weight False --new_check "_1006" --csv_name "init_1006.csv"
+#python3 main.py --is_training False --is_save False --unet_weight False --new_check "_1341" --csv_name "init_1341.csv"
+#python3 main.py --is_training False --is_save False --unet_weight False --new_check "_1676" --csv_name "init_1676.csv"
+python3 main.py --is_training False --is_save False --cut_off 0.4 --unet_weight False --csv_name "init_2011_40.csv"
+python3 main.py --is_training False --is_save False --cut_off 0.45 --unet_weight False --csv_name "init_2011_45.csv"
+python3 main.py --is_training False --is_save False --cut_off 0.5 --unet_weight False --csv_name "init_2011_50.csv"
+python3 main.py --is_training False --is_save False --cut_off 0.55 --unet_weight False --csv_name "init_2011_55.csv"
+python3 main.py --is_training False --is_save False --cut_off 0.6 --unet_weight False --csv_name "init_2011_60.csv"
